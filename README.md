@@ -89,7 +89,7 @@ This project is released under the **MIT License** – you’re free to use, mod
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mdsakeel103/))
+- 💼 LinkedIn : https://www.linkedin.com/in/mdsakeel103/
 - 📧 Email: mdsakeel.sadabnoor786@gmail.com
 
 ---
