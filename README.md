@@ -7,6 +7,11 @@ It helps professionals, teams, and managers to **monitor daily, weekly, and mont
 
 ---
 
+==== Screenshot ===========
+
+![Uploading image.png…]()
+
+
 ## ✨ Features
 
 - 📅 **Date-Wise Tracking** – Log daily working hours easily.
