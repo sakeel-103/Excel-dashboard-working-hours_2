@@ -9,7 +9,8 @@ It helps professionals, teams, and managers to **monitor daily, weekly, and mont
 
 ==== Screenshot ===========
 
-![Uploading image.png…]()
+<img width="1775" height="732" alt="image" src="https://github.com/user-attachments/assets/d15a2fcf-7707-4342-836b-f55235d007e1" />
+
 
 
 ## ✨ Features
